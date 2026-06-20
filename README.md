@@ -42,7 +42,7 @@ Created by Jamie Kent, as a Python finance project.
 
 ## Screenshots
 ### Project Code
-![Project Code](Finance_Forecast_Project_Photo.png)
+![Project Code](Finance%20Forecast%20Project%20Photo.png)
 
 ### Program Output
-![Program Output](Finance_Forecast_Project_Photo_Bash.png)
+![Program Output](Finance%20Forecast%20Project%20Photo%20Bash.png)
