@@ -39,3 +39,10 @@ This project is a personal finance simulator written in Python. It models the fi
 
 ## Author
 Created by Jamie Kent, as a Python finance project.
+
+## Screenshots
+### Project Code
+![Project Code](Finance_Forecast_Project_Photo.png)
+
+### Program Output
+![Program Output](Finance_Forecast_Project_Photo_Bash.png)
